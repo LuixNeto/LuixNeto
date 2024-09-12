@@ -56,4 +56,8 @@ def incluir_novo_produto():
 
 #     return jsonify(livros)
 
+macaco = "macaco canalha"
+print(macaco)
+
+
 app.run(port='5000',host='localhost',debug=True)
